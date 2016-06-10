@@ -14,6 +14,7 @@ body {
 div {
 	display: inline-block;
 	background-color: #B2A945;
+	background-image: url('http://www.argusone.com/Points.gif');
 
 	width: 30%;
 	height: 30%;
